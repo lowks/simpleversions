@@ -9,5 +9,6 @@ setup(
     name='simpleversions',
     version='0.1.4',
     py_modules=['simpleversions'],
+    description='Library intended to handle a relatively simple versioning scheme.',
     zip_safe=False,
 )
