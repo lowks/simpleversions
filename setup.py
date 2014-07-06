@@ -8,6 +8,8 @@ except ImportError:
 setup(
     name='simpleversions',
     version='0.1.4',
+    description='Library that performs simple version comparison operations',
+    url='https://github.com/amplify-education/simpleversions',
     py_modules=['simpleversions'],
     zip_safe=False,
 )
